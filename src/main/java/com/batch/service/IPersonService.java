@@ -1,4 +1,4 @@
-package com.batch.Service;
+package com.batch.service;
 
 import com.batch.entity.Person;
 import java.util.List;
